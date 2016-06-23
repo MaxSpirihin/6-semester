@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PlayerWindow</class>
+ <widget class="QMainWindow" name="PlayerWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>942</width>
+    <height>540</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Singleton VideoPlayer</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>471</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="vl1">
+     <property name="horizontalSpacing">
+      <number>5</number>
+     </property>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_2">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>0</y>
+      <width>471</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="vl2">
+     <property name="horizontalSpacing">
+      <number>5</number>
+     </property>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_3">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>280</y>
+      <width>471</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="vl3">
+     <property name="horizontalSpacing">
+      <number>5</number>
+     </property>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="gridLayoutWidget_4">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>280</y>
+      <width>469</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="vl4">
+     <property name="horizontalSpacing">
+      <number>5</number>
+     </property>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

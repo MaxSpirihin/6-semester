@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.0.4.1
+- http://www.phpmyadmin.net
+-
+- Хост: localhost
+- Время создания: Окт 26 2015 г., 08:29
+- Версия сервера: 5.6.12
+- Версия PHP: 5.5.3
+-->
+<pma_xml_export version="1.0" xmlns:pma="http://www.phpmyadmin.net/some_doc_url/">
+    <database name="SentiRuEval">
+        <table name="bank_train_2016">
+            <column name="id">1</column>
+            <column name="twitid">492367586156630000</column>
+            <column name="date">1406224554</column>
+            <column name="text">http://t.co/YEVHuvVGA1 Взять кредит тюмень альфа банк</column>
+            <column name="sberbank">NULL</column>
+            <column name="vtb">NULL</column>
+            <column name="gazprom">NULL</column>
+            <column name="alfabank">2</column>
+            <column name="bankmoskvy">NULL</column>
+            <column name="raiffeisen">NULL</column>
+            <column name="uralsib">NULL</column>
+            <column name="rshb">NULL</column>
+        </table>
+        <table name="bank_train_2016">
+            <column name="id">2</column>
+            <column name="twitid">492368160923070000</column>
+            <column name="date">1406224691</column>
+            <column name="text">Мнение о кредитной карте втб 24 http://t.co/SBJTcsqjCg</column>
+            <column name="sberbank">NULL</column>
+            <column name="vtb">1</column>
+            <column name="gazprom">NULL</column>
+            <column name="alfabank">NULL</column>
+            <column name="bankmoskvy">NULL</column>
+            <column name="raiffeisen">NULL</column>
+            <column name="uralsib">NULL</column>
+            <column name="rshb">NULL</column>
+        </table>
+	</database>
+</pma_xml_export>
